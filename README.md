@@ -1,9 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8INSG9__)
 # 🐍 파이썬 [함께 미션1] 수행 안내 (General)
 
 이곳은 여러분이 **개인별로 배정받은 '과제 폴더'**입니다. <br>
 코드를 직접 타이핑하며 파이썬의 기초 문법을 익혀봅시다. 😊
 
----
+---print('Hello world')
 
 ### 🚀 1. 실습 시작하기 (에디터 열기)
 내 컴퓨터에 아무것도 설치할 필요 없습니다. 아래 버튼 하나면 충분합니다!
